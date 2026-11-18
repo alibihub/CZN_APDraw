@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "params": {
+    "ap": 3,
+    "hand": 5,
+    "limit": 10,
+    "trials": 2000,
+    "target": 90
+  },
+  "cards": [
+    {
+      "name": "Flicker Blade V",
+      "costX": true
+    },
+    {
+      "name": "Sword Resonance",
+      "cost": 1,
+      "draw": 1,
+      "count": 3
+    },
+    {
+      "name": "Sword Resonance II",
+      "cost": 1,
+      "draw": 1
+    },
+    {
+      "name": "Radiant Sword Flow V",
+      "cost": 1
+    },
+    {
+      "name": "Blade of the Cycle III",
+      "cost": 1,
+      "draw": 1,
+      "ap": 1
+    },
+    {
+      "name": "Kyrken's Apostle",
+      "cost": 0,
+      "draw": 2,
+      "keywords": [
+        "開戦"
+      ]
+    },
+    {
+      "name": "Memory: Loss",
+      "cost": 0,
+      "keywords": [
+        "開幕"
+      ]
+    },
+    {
+      "name": "Quantum Seed II",
+      "cost": 0,
+      "draw": 1,
+      "ap": 1,
+      "count": 3
+    },
+    {
+      "name": "Dual Creation II",
+      "cost": 1,
+      "keywords": [
+        "開戦"
+      ]
+    },
+    {
+      "name": "Event Horizon",
+      "cost": 2,
+      "draw": 1,
+      "ap": 1
+    },
+    {
+      "name": "Memory: Golden",
+      "cost": 0,
+      "keywords": [
+        "開幕"
+      ]
+    },
+    {
+      "name": "Sadism",
+      "cost": 1,
+      "draw": 2,
+      "ap": 1
+    },
+    {
+      "name": "Soliloquy I",
+      "cost": 0,
+      "draw": 4
+    },
+    {
+      "name": "Night Rain V",
+      "cost": 0,
+      "draw": 1
+    },
+    {
+      "name": "Night Rain IV (a)",
+      "cost": 0,
+      "draw": 1,
+      "keywords": [
+        "開戦"
+      ]
+    },
+    {
+      "name": "Night Rain IV (b)",
+      "cost": 0,
+      "ap": 1,
+      "keywords": [
+        "開戦"
+      ]
+    },
+    {
+      "name": "Soulfire Dance V",
+      "cost": 0
+    }
+  ]
+}

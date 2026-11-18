@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "CZN GUI",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/czn_calc_gui.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "CZN CLI",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/czn_calc.py",
+      "args": ["czn-deck.json"],
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
